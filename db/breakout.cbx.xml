@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="breakout">
+		<CBX_INST_ENTRY INSTANCE_NAME="|breakout|contador_pontos:cont_pont_inst|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_nem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|breakout|vgacon:vga_controller|dual_clock_ram:vgamem|altsyncram:ram_block_rtl_0" CBX_FILE_NAME="altsyncram_o9f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|breakout|vgacon:vga_controller|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_9em.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|breakout|vgacon:vga_controller|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_9em.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

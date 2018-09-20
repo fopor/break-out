@@ -1,0 +1,93 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'ball:ball_inst|ball_X[0]'
+Slack : -29.605
+TNS   : -51.650
+
+Type  : Slow Model Setup 'clk27M'
+Slack : -17.188
+TNS   : -582.036
+
+Type  : Slow Model Setup 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 15.935
+TNS   : 0.000
+
+Type  : Slow Model Hold 'clk27M'
+Slack : -2.079
+TNS   : -14.134
+
+Type  : Slow Model Hold 'ball:ball_inst|ball_X[0]'
+Slack : -1.762
+TNS   : -3.227
+
+Type  : Slow Model Hold 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'clk27M'
+Slack : 33.048
+TNS   : 0.000
+
+Type  : Slow Model Removal 'clk27M'
+Slack : 0.550
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'ball:ball_inst|ball_X[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk27M'
+Slack : 15.954
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 17.277
+TNS   : 0.000
+
+Type  : Fast Model Setup 'ball:ball_inst|ball_X[0]'
+Slack : -10.295
+TNS   : -17.977
+
+Type  : Fast Model Setup 'clk27M'
+Slack : -2.338
+TNS   : -17.463
+
+Type  : Fast Model Setup 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 31.034
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clk27M'
+Slack : -1.460
+TNS   : -11.118
+
+Type  : Fast Model Hold 'ball:ball_inst|ball_X[0]'
+Slack : -1.159
+TNS   : -2.243
+
+Type  : Fast Model Hold 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'clk27M'
+Slack : 35.269
+TNS   : 0.000
+
+Type  : Fast Model Removal 'clk27M'
+Slack : 0.716
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'ball:ball_inst|ball_X[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk27M'
+Slack : 16.138
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'vga_controller|divider|altpll_component|pll|clk[0]'
+Slack : 17.714
+TNS   : 0.000
+
+------------------------------------------------------------

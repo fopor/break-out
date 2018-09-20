@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jun 21 13:14:00 2017
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : breakout
+Top-level Entity Name : breakout
+Family : Cyclone II
+Device : EP2C20F484C7
+Timing Models : Final
+Total logic elements : 2,136 / 18,752 ( 11 % )
+    Total combinational functions : 2,123 / 18,752 ( 11 % )
+    Dedicated logic registers : 311 / 18,752 ( 2 % )
+Total registers : 311
+Total pins : 76 / 315 ( 24 % )
+Total virtual pins : 0
+Total memory bits : 36,864 / 239,616 ( 15 % )
+Embedded Multiplier 9-bit elements : 0 / 52 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
